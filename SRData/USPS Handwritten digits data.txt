@@ -1,0 +1,1 @@
+Handwritten digits data can be download from: http://www.cs.nyu.edu/~roweis/data.html
