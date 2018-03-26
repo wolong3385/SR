@@ -1,5 +1,5 @@
 # SR
-Non-commercial use！
+No-commercial use！
 
 This paper has been accepted by AsiaCCS 2018 as a regular paper. 
 
